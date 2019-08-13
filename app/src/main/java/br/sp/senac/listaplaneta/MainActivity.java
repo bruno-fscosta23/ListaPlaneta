@@ -66,6 +66,8 @@ public class MainActivity extends AppCompatActivity {
 
             name.setText(namePlanetas[position]);
             image.setImageResource(imagePlanetas[position]);
+
+
             return view1;
         }
     }
